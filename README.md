@@ -2,7 +2,7 @@
 
 # Desafio Final Imersão Dados
 
-## **BUSCA DE COMPOSTOS QUE ATIVEM MECANISMOS DE ATIVAÇÃO GENÉTICOS DO TIPO INIBIDOR!**
+## **BUSCA DE COMPOSTOS QUE ATIVEM MECANISMOS DE ATIVAÇÃO GENÉTICOS DO TIPO INIBIDOR**
 
 Neste repositório você vai encontrar meu projeto final da 3ª Edição da Imersão Dados da Alura.
 
