@@ -32,6 +32,9 @@ Materiais sobre **biologia** utilizados no projeto:
 - [Expressão gênica: o caminho da informação biológica](https://docs.google.com/document/d/1TR-Q1cb2k_-S_MZC-60PMN2CbVGZbLMKT0Lr_didPY0/edit?usp=sharing)
 - [Enzyme Inhibition: Mechanisms and Scope](https://cdn.intechopen.com/pdfs/36550/InTech-Enzyme_inhibition_mechanisms_and_scope.pdf)
 
+Relatório gerado pelo Sweetviz:
+- [Sweetviz_Experimentos](https://1drv.ms/u/s!AohJMgiIw---kBrkDpNoclLSJG0M?e=tCUa8g)
+
 Materiais usados no desenvolvimento do **README**:
 
 - [Criando anotações com Markdown](https://www.alura.com.br/artigos/criando-anotacoes-com-markdown)\
